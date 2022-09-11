@@ -33,8 +33,11 @@ My job responsibilities included, but was not limited to, the following:
 
 Associate Software Consultant @Capgemini (Mar 2022 - Aug 2022)
 • Reviewed new features and enhancements for the product and worked extensively with customers to prioritize their pain points, collaborating with the engineering, R&D, and sales teams to scale the existing product in the B2B SaaS space.
-• Implemented weekly standard operating procedure reviews, identifying deliverable shortfalls and implementing procedure best practices, reducing end-user shortcomings to zero.• Reviewed new features and enhancements for the product and worked extensively with customers to prioritize their pain points, collaborating with the engineering, R&D, and sales teams to scale the existing product in the B2B SaaS space. • Implemented weekly standard operating procedure reviews, identifying deliverable shortfalls and implementing procedure best practices, reducing end-user shortcomings to zero.
+• Implemented weekly standard operating procedure reviews, identifying deliverable shortfalls and implementing procedure best practices, reducing end-user shortcomings to zero.
+• Reviewed new features and enhancements for the product and worked extensively with customers to prioritize their pain points, collaborating with the engineering, R&D, and sales teams to scale the existing product in the B2B SaaS space. 
+• Implemented weekly standard operating procedure reviews, identifying deliverable shortfalls and implementing procedure best practices, reducing end-user shortcomings to zero.
 Skills: Agile Methodologies · Product Management · Project Management · Scrum · Git · Visio · Leadership
 
 Things I like to do 💻
+
 I will probably be sketching, reading a book, or playing/ watching soccer when I'm not working/studying.
